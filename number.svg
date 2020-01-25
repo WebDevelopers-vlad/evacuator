@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="247" height="57" viewBox="0 0 247 57">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #2e2e2e;
+      }
+
+      .cls-2 {
+        font-size: 32px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #fb0;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        font-size: 16px;
+        font-family: Verdana-Italic, Verdana;
+        font-style: italic;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="6" height="6"/>
+    </clipPath>
+  </defs>
+  <g id="Group_42" data-name="Group 42" transform="translate(-1684 -1276)">
+    <g id="Group_38" data-name="Group 38" transform="translate(130 1232)">
+      <g id="Group_9" data-name="Group 9" transform="translate(1511 45)">
+        <g id="Group_3" data-name="Group 3">
+          <text id="_8_915_003_02_02_" data-name="8 915 003 02 02 " class="cls-2" transform="translate(43 34)"><tspan x="0" y="0">8 915 003 02 02 </tspan></text>
+          <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-3" cx="3" cy="3" r="3" transform="translate(62 19)"/>
+          <g id="Repeat_Grid_2" data-name="Repeat Grid 2" class="cls-4" transform="translate(127 19)">
+            <g transform="translate(-62 -19)">
+              <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-3" cx="3" cy="3" r="3" transform="translate(62 19)"/>
+            </g>
+          </g>
+          <g id="Repeat_Grid_3" data-name="Repeat Grid 3" class="cls-4" transform="translate(191 19)">
+            <g transform="translate(-62 -19)">
+              <circle id="Ellipse_5-2" data-name="Ellipse 5" class="cls-3" cx="3" cy="3" r="3" transform="translate(62 19)"/>
+            </g>
+          </g>
+          <g id="Repeat_Grid_4" data-name="Repeat Grid 4" class="cls-4" transform="translate(236 19)">
+            <g transform="translate(-62 -19)">
+              <circle id="Ellipse_5-3" data-name="Ellipse 5" class="cls-3" cx="3" cy="3" r="3" transform="translate(62 19)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="круглосуточно" class="cls-5" transform="translate(1860 1330)"><tspan x="-60.551" y="0">круглосуточно</tspan></text>
+  </g>
+</svg>
